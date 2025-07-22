@@ -55,12 +55,13 @@
 # print("your name is", name)
 
 
-age = int(input("Enter your age."))
+# age = int(input("Enter your age."))
 
-if age > 18:
-    print("Your age more than 18.")
-elif age > 20:
-    print("Your age more than 20.")
-else:
-    print("Your age lower than 18")
+# if age > 18:
+#     print("Your age more than 18.")
+# elif age > 20:
+#     print("Your age more than 20.")
+# else:
+#     print("Your age lower than 18")
+
 
